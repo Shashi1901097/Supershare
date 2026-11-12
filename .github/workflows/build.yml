@@ -1,4 +1,4 @@
-name: SuperShare Android CI
+name: SuperShare
 
 on:
   push:
